@@ -1,6 +1,8 @@
 # SQL-SSMS-Services
 How does SQL Work ?
 
+<img width="1918" height="1112" alt="Screenshot 2026-04-05 101229" src="https://github.com/user-attachments/assets/1cacf9cd-d1a3-49cb-8400-f8ff736c9d1c" />
+
 **Database Setup Process**
 Installed SQL Server and SQL Server Management Studio (SSMS).
 Downloaded the sample backup database file: AdventureWorks2025.bak.
